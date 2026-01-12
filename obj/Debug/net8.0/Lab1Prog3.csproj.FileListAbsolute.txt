@@ -1,0 +1,14 @@
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/bin/Debug/net8.0/Lab1Prog3
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/bin/Debug/net8.0/Lab1Prog3.deps.json
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/bin/Debug/net8.0/Lab1Prog3.runtimeconfig.json
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/bin/Debug/net8.0/Lab1Prog3.dll
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/bin/Debug/net8.0/Lab1Prog3.pdb
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.GeneratedMSBuildEditorConfig.editorconfig
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.AssemblyInfoInputs.cache
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.AssemblyInfo.cs
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.csproj.CoreCompileInputs.cache
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.dll
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/refint/Lab1Prog3.dll
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.pdb
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/Lab1Prog3.genruntimeconfig.cache
+/home/hudson/Documentos/VSCode/C#/Lab1Prog3/obj/Debug/net8.0/ref/Lab1Prog3.dll
